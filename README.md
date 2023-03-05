@@ -1,16 +1,12 @@
-# test_two
+# Registration and Signin pages using flutter
 
-A new Flutter project.
+There is a folder is called pages inside lib folder.  
+Inside pages folder has three files which are :-  
+.home page 
+.register page  
+.sigin page  
 
-## Getting Started
+To make the code much smaller there is comp.dart file that has classes change the data with using their constractor.    
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Form validation 
+Using Form widget to make sure the input is correct and match the requirements.  
