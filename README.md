@@ -1,17 +1,17 @@
-# Registration and Signin pages using flutter 🏁
+# Registration and Signin pages using flutter 🏁🥇  
 
-There is a folder is called pages inside lib folder.  
+There is a folder is called pages inside lib folder.🖱️📁📂   
 Inside pages folder has three files which are :-  
--home page   
+-👉home page   
 -👉register page  
 -👉sigin page  
 
 To make the code much smaller there is comp.dart file that has classes change the data with using their constractor.    
 
-## Form validation 
+## Form validation 🔐📱   
 Using Form widget to make sure the input is correct and match the requirements. 😏  
 
-## The Final Result :happy    
+## The Final Result😄💖:  
 
 ![1680877365047](https://user-images.githubusercontent.com/74355967/230625059-a08c02de-012c-4d23-bb73-e8a805ec6910.jpg)  
 
